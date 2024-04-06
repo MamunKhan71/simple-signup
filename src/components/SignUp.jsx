@@ -1,6 +1,6 @@
 const SignUp = () => {
     return (
-            <div className="flex items-center justify-center h-auto">
+            <div className="flex items-center justify-center h-auto lg:h-screen">
                 <div className="flex flex-col items-center font-poppins w-full lg:pb-12">
                     <div className="space-y-7 flex items-center flex-col w-full">
                         <div className="mt-6 lg:mt-12 w-20 bg-[#D6DFFF] rounded-3xl lg:p-2">
@@ -23,7 +23,7 @@ const SignUp = () => {
                                     <path fillRule="evenodd" clipRule="evenodd" d="M5.28545 14.2799C5.04545 13.5599 4.90909 12.7908 4.90909 11.9999C4.90909 11.209 5.04545 10.4399 5.28545 9.71993V6.61084H1.27636C0.463636 8.23084 0 10.0636 0 11.9999C0 13.9363 0.463636 15.769 1.27636 17.389L5.28545 14.2799Z" fill="#FBBC05" />
                                     <path fillRule="evenodd" clipRule="evenodd" d="M12 4.77273C13.7618 4.77273 15.3436 5.37818 16.5873 6.56727L20.0291 3.12545C17.9509 1.18909 15.2345 0 12 0C7.30909 0 3.25091 2.68909 1.27637 6.61091L5.28546 9.72C6.22909 6.88364 8.87455 4.77273 12 4.77273Z" fill="#EA4335" />
                                 </svg>
-                                <span className="text-primary font-medium font-base">Facebook</span>
+                                <span className="text-primary font-medium font-base">Google</span>
                             </button>
                         </div>
                         <div className="w-full">
