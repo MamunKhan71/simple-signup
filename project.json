@@ -1,0 +1,67 @@
+[
+    {
+        "Project Name": "Real Estate Portal",
+        "Project Type": "Property Management Platform",
+        "Live Link": "https://bd-corporate.web.app/"
+    },
+    {
+        "Project Name": "Artisan Marketplace",
+        "Project Type": "E-Commerce Platform for Art",
+        "Live Link": "https://craftifybd-dd2ee.web.app/"
+    },
+    {
+        "Project Name": "React Setup Tool",
+        "Project Type": "Development Environment Utility",
+        "Live Link": "https://react-setup.netlify.app/"
+    },
+    {
+        "Project Name": "Literary Hub",
+        "Project Type": "Digital Library for Books",
+        "Live Link": "https://boi-bazaar.netlify.app/"
+    },
+    {
+        "Project Name": "Educational Platform",
+        "Project Type": "Online Learning Environment",
+        "Live Link": "https://guru-learning.netlify.app/"
+    },
+    {
+        "Project Name": "Quranic Resource Center",
+        "Project Type": "Digital Quran Repository",
+        "Live Link": "https://dua-ruqyah-mamun.netlify.app/"
+    },
+    {
+        "Project Name": "Gourmet Recipe Hub",
+        "Project Type": "Online Culinary Destination",
+        "Live Link": "https://flavorquest-md-mamun-07.netlify.app/"
+    },
+    {
+        "Project Name": "Transit Ticketing System",
+        "Project Type": "Online Bus Ticketing Solution",
+        "Live Link": "https://gari-lagbe.netlify.app/"
+    },
+    {
+        "Project Name": "Color Conversion Tool",
+        "Project Type": "RGB to Hex Converter",
+        "Live Link": "https://rgb-converter.netlify.app/"
+    },
+    {
+        "Project Name": "Character Encoding Utility",
+        "Project Type": "ASCII Code Generator",
+        "Live Link": "https://keycode-generator-mk.netlify.app/"
+    },
+    {
+        "Project Name": "Typing Skills Game",
+        "Project Type": "Educational Typing Game",
+        "Live Link": "https://clash-alpha-game.netlify.app/"
+    },
+    {
+        "Project Name": "Virtual Coin Toss",
+        "Project Type": "Online Randomization Tool",
+        "Live Link": "https://coin-flipper-mk.netlify.app/"
+    },
+    {
+        "Project Name": "QR Code Creator",
+        "Project Type": "Custom QR Code Generator",
+        "Live Link": "https://qr-code-bd.netlify.app/"
+    }
+]
